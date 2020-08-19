@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample1</string>
+    <string-array name="lv_menu">
+        <item>企業1求人</item>
+        <item>企業2求人</item>
+        <item>企業3求人</item>
+    </string-array>
+</resources>
