@@ -6,7 +6,7 @@
         <item>企業3求人</item>
     </string-array>
     <string name="tv_thx_title">
-        <h2>企業情報</h2>
+        <h1>企業情報</h1>
     </string>
 
 </resources>
