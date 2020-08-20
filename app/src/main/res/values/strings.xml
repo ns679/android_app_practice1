@@ -5,4 +5,8 @@
         <item>企業2求人</item>
         <item>企業3求人</item>
     </string-array>
+    <string name="tv_thx_title">
+        <h2>企業情報</h2>
+    </string>
+
 </resources>
